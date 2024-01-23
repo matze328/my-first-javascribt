@@ -1,4 +1,4 @@
-// Array mit Hobbies erstellen
+// Array mit Hobbies 
 let hobbies = ["zocken", "downhill", "Sport", "Reisen", "handwerkeln"];
 
 // Funktion zum Hinzufügen eines Elements zum Array
